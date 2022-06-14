@@ -2,3 +2,7 @@
     font-family: Roboto;
      src: url("assets/fonts/CharisSIL-Bold.ttf");
    }
+  
+   .fit-picture {
+    width: 250px;
+}
