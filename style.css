@@ -1,1 +1,8 @@
-hi again
+@font-face {
+    font-family: Roboto;
+     src: url("assets/fonts/CharisSIL-Bold.ttf");
+   }
+  
+   .fit-picture {
+    width: 50px;
+   }
